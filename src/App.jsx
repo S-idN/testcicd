@@ -20,7 +20,7 @@ function App() {
           letterSpacing: "1.2px"
         }}
       >
-        Welcome To Ethnotech and something here changed 
+        Welcome To Ethnotech and something here changed and this time with webhooks
       </h1>
     </div>
   );
